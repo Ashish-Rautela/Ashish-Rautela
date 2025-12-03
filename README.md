@@ -3,6 +3,7 @@
 🎓 I'm a Computer Science student passionate about full-stack web development and problem-solving.  
 💻 I specialize in the **MERN stack** and practice **Data Structures & Algorithms in C++**.
 
+---
 
 ### 🛠️ Tech Stack
 
