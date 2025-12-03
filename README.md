@@ -3,14 +3,6 @@
 🎓 I'm a Computer Science student passionate about full-stack web development and problem-solving.  
 💻 I specialize in the **MERN stack** and practice **Data Structures & Algorithms in C++**.
 
----
-
-### 🚀 Projects
-
-🔐 [**Decentralized Online Voting System**](https://github.com/Ashish-Rautela/Decentralized_Online_Voting_System)  
-A blockchain-based online voting platform ensuring transparency, security, and immutability in the voting process.
-
----
 
 ### 🛠️ Tech Stack
 
