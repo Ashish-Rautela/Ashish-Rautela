@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 100" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgFooterGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#08080a" />
+      <stop offset="50%" stop-color="#140204" />
+      <stop offset="100%" stop-color="#040405" />
+    </linearGradient>
+
+    <linearGradient id="footerLineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff1e27" stop-opacity="0" />
+      <stop offset="50%" stop-color="#ff1e27" stop-opacity="1" />
+      <stop offset="100%" stop-color="#ff1e27" stop-opacity="0" />
+    </linearGradient>
+
+    <filter id="glowFooter" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <style>
+    .footer-text {
+      font-family: 'Consolas', 'Fira Code', 'Courier New', monospace;
+      font-weight: 500;
+      font-size: 14px;
+      letter-spacing: 3px;
+      fill: #8a8a94;
+    }
+    .heart {
+      fill: #ff1e27;
+    }
+  </style>
+
+  <rect width="1200" height="100" rx="12" fill="url(#bgFooterGrad)" />
+  <rect x="1" y="1" width="1198" height="98" rx="11" fill="none" stroke="#ff1e27" stroke-width="1" stroke-opacity="0.2" />
+
+  <line x1="200" y1="2" x2="1000" y2="2" stroke="url(#footerLineGrad)" stroke-width="2" filter="url(#glowFooter)" />
+
+  <text x="600" y="56" text-anchor="middle" class="footer-text">
+    DESIGNED FOR PERFORMANCE &amp; ELEGANCE • ASHISH RAUTELA
+  </text>
+</svg>

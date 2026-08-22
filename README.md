@@ -1,21 +1,23 @@
 <div align="center">
 
-  <!-- Crimson & Obsidian Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:8b0000,100:e50914&height=220&section=header&text=Ashish%20Rautela&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=SWE%20Intern%20%40%20Prodyt%20%E2%80%A2%20Full-Stack%20%26%20Cloud%20Engineer&descFontSize=18&descAlignY=58&descAlign=50" width="100%" />
+  <!-- Local Custom Obsidian & Crimson Vector Banner -->
+  <img src="assets/banner.svg" alt="Ashish Rautela" width="100%" />
+
+  <br/>
 
   <!-- Animated Glowing Red Typing Subtitle -->
   <a href="https://github.com/Ashish-Rautela">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=FF1E27&center=true&vCenter=true&width=750&lines=SWE+Intern+%40+Prodyt+(AWS+%7C+Gemini+AI)+%F0%9F%9A%80;Full-Stack+%26+Cloud+Developer+(MERN+%7C+AWS)+%F0%9F%92%BB;500%2B+DSA+Problems+Solved+on+LeetCode+%F0%9F%A7%A0;Runner-up+%40+IIT+Guwahati+Hackathon+%F0%9F%8F%86;Open+Source+Contributor+%40+Sugar+Labs+%F0%9F%8C%90" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=FF1E27&center=true&vCenter=true&width=750&lines=Full-Stack+%26+Cloud+Developer+(MERN+%7C+AWS)+%F0%9F%92%BB;500%2B+DSA+Problems+Solved+on+LeetCode+%F0%9F%A7%A0;Runner-up+%40+IIT+Guwahati+Hackathon+%F0%9F%8F%86;Building+Scalable+High-Performance+Web+Apps+%F0%9F%94%A5;Open+Source+Contributor+%40+Sugar+Labs+%F0%9F%8C%90" alt="Typing SVG" />
   </a>
 
   <br/>
 
   <!-- Status & Highlight Badges -->
   <p align="center">
-    <img src="https://img.shields.io/badge/Experience-SWE%20Intern%20%40%20Prodyt-FF1E27?style=for-the-badge&logoColor=white&labelColor=000000" alt="Experience" />
-    <img src="https://img.shields.io/badge/Education-Graphic%20Era%20Hill%20Univ%20(8.53%20SGPA)-000000?style=for-the-badge&logoColor=white&labelColor=000000" alt="Education" />
-    <img src="https://img.shields.io/badge/LeetCode-500%2B%20Solved-FF1E27?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=000000" alt="LeetCode" />
-    <img src="https://img.shields.io/badge/Hackathon-IIT%20Guwahati%20Runner--up-000000?style=for-the-badge&logoColor=white&labelColor=000000" alt="Hackathon" />
+    <img src="https://img.shields.io/badge/Education-Graphic%20Era%20Hill%20Univ%20(8.53%20SGPA)-FF1E27?style=for-the-badge&logoColor=white&labelColor=000000" alt="Education" />
+    <img src="https://img.shields.io/badge/LeetCode-500%2B%20Solved-000000?style=for-the-badge&logo=leetcode&logoColor=FF1E27&labelColor=000000" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/Hackathon-IIT%20Guwahati%20Runner--up-FF1E27?style=for-the-badge&logoColor=white&labelColor=000000" alt="Hackathon" />
+    <img src="https://img.shields.io/badge/Status-Open_to_Collaborate-000000?style=for-the-badge&logoColor=white&labelColor=000000" alt="Status" />
   </p>
 
   <!-- Connect Links in Red & Black -->
@@ -44,9 +46,9 @@
 ashish@workstation:~$ neofetch --profile
 -------------------------------------------------------------------------
 > Name          : Ashish Rautela
-> Role          : Software Engineering Intern @ Prodyt (May 2026 – Present)
+> Focus         : Full-Stack Engineering, Cloud Systems & Low-Latency APIs
 > Education     : B.E. in Computer Science @ Graphic Era Hill University (SGPA: 8.53)
-> Core Stack    : Node.js • Express • React • Next.js • MongoDB • DynamoDB • Redis
+> Core Stack    : Node.js • Express.js • React • Next.js • MongoDB • DynamoDB • Redis
 > Cloud & Ops   : AWS (Lambda, EventBridge, SQS, API GW, Step Functions, CloudWatch) • Docker
 > Problem Solver: 500+ LeetCode DSA Solutions in C++ (Graphs, DP, Trees, Greedy)
 > Achievements  : Runner-up @ IIT Guwahati Hackathon • WCHL National Qualifier
@@ -55,28 +57,26 @@ ashish@workstation:~$ neofetch --profile
 
 ---
 
-### 💼 Experience & Achievements
+### 🏆 Honors & Key Engineering Highlights
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>🏢 Professional Experience</h4>
-      <p><b>Software Engineering Intern — Prodyt</b><br/>
-      <i>WhatsApp Marketing & CRM Platform (May 2026 – Present | Remote)</i></p>
+      <h4>⚡ Core Engineering Highlights</h4>
       <ul>
-        <li>Built an automated WhatsApp template generator powered by <b>Gemini 2.5 Flash</b>, cutting template drafting time by <b>90%</b>.</li>
-        <li>Architected end-to-end bulk WhatsApp campaign scheduler using <b>AWS EventBridge & Lambda</b>.</li>
-        <li>Reworked <b>DynamoDB</b> schema for customer segmentation, eliminating redundant cross-service data.</li>
-        <li>Configured full AWS serverless infrastructure (CloudFormation, Lambda, SQS, Step Functions, CloudWatch).</li>
+        <li>🚀 <b>AI Automation:</b> Built template generator powered by <b>Gemini 2.5 Flash</b>, cutting generation turnaround by <b>90%</b>.</li>
+        <li>☁️ <b>Event Pipelines:</b> Engineered bulk campaign scheduler on <b>AWS EventBridge &amp; Lambda</b>.</li>
+        <li>💾 <b>Database Optimization:</b> Reworked <b>DynamoDB</b> schemas to eliminate duplicate data paths.</li>
+        <li>🛡️ <b>Infrastructure as Code:</b> Provisioned AWS serverless stacks (CloudFormation, SQS, Step Functions, CloudWatch).</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>🏆 Honors & Milestones</h4>
+      <h4>🎖️ Honors &amp; Milestones</h4>
       <ul>
         <li>🏆 <b>Runner-up</b> — <i>IIT Guwahati Hackathon</i></li>
         <li>🏅 <b>National Round Qualifier</b> — <i>World Cup Hackathon League (WCHL)</i></li>
-        <li>🧠 <b>500+ DSA Problems Solved</b> on <i>LeetCode</i> across Graphs, Dynamic Programming, Trees, and Complex Data Structures.</li>
-        <li>🌐 <b>Open-Source Contributor</b> to <i>Sugar Labs (Music Blocks)</i> with multiple pull requests merged into production.</li>
+        <li>🧠 <b>500+ DSA Problems Solved</b> on <i>LeetCode</i> across Graphs, Dynamic Programming, Trees, and Advanced Structures.</li>
+        <li>🌐 <b>Open-Source Contributor</b> to <i>Sugar Labs (Music Blocks)</i> with production PRs merged.</li>
       </ul>
     </td>
   </tr>
@@ -121,11 +121,11 @@ ashish@workstation:~$ neofetch --profile
       <code>C++</code> <code>C</code> <code>Python</code> <code>Java</code> <code>JavaScript</code> <code>TypeScript</code> <code>Solidity</code>
     </td>
     <td width="33%" valign="top">
-      <b>⚙️ Backend & Systems</b><br/>
+      <b>⚙️ Backend &amp; Systems</b><br/>
       <code>Node.js</code> <code>Express.js</code> <code>MongoDB</code> <code>DynamoDB</code> <code>Redis</code> <code>REST APIs</code> <code>Microservices</code>
     </td>
     <td width="33%" valign="top">
-      <b>☁️ Cloud & DevOps</b><br/>
+      <b>☁️ Cloud &amp; DevOps</b><br/>
       <code>AWS Lambda</code> <code>API Gateway</code> <code>EventBridge</code> <code>SQS</code> <code>Step Functions</code> <code>Docker</code> <code>CI/CD</code>
     </td>
   </tr>
@@ -140,7 +140,7 @@ ashish@workstation:~$ neofetch --profile
 | 📝 **SynkDocs** | Serverless document platform with 12 REST API endpoints on AWS Lambda & DynamoDB (~180ms latency). Integrated Amazon SQS for background processing and automated GitHub Actions CI/CD. | `React.js` `Node.js` `AWS Lambda` `DynamoDB` `SQS` `Amplify` | [Repo](https://github.com/Ashish-Rautela/SynkDocs-backend) |
 | 🎟️ **EventFlow** | High-throughput event-driven backend processing 800–1,000 events/min. Uses Redis atomic offsets, dead-letter queue (DLQ) retry pipelines, and lag monitoring across 3 parallel consumers. | `Node.js` `MongoDB` `Redis` `Event-Driven` | [Repo](https://github.com/Ashish-Rautela/EventFlow) |
 | 🗳️ **Decentralized Voting** | Blockchain voting architecture with smart contracts for tamper-resistant vote recording. Features role-based access control, on-chain validation, and 12–15 tx/s throughput on Hardhat. | `Solidity` `Smart Contracts` `Node.js` `React.js` `Hardhat` | [Repo](https://github.com/Ashish-Rautela/Decentralized_Online_Voting_System) |
-| 🤖 **AI Template Engine** | WhatsApp template generator powered by Gemini 2.5 Flash integrated with Meta WhatsApp API and AWS EventBridge bulk scheduler. | `Gemini AI` `AWS EventBridge` `Node.js` `Lambda` | [Prodyt](https://github.com/Ashish-Rautela) |
+| 🤖 **AI Template Engine** | WhatsApp template generator powered by Gemini 2.5 Flash integrated with Meta WhatsApp API and AWS EventBridge bulk scheduler. | `Gemini AI` `AWS EventBridge` `Node.js` `Lambda` | [View Profile](https://github.com/Ashish-Rautela) |
 
 ---
 
@@ -162,5 +162,5 @@ ashish@workstation:~$ neofetch --profile
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:8b0000,100:e50914&height=90&section=footer" width="100%" />
+  <img src="assets/footer.svg" alt="Footer Banner" width="100%" />
 </div>
