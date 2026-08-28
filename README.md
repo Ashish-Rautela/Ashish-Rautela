@@ -84,16 +84,6 @@ ashish@workstation:~$ neofetch --profile
 
 ---
 
-### 🌐 3D Contribution Matrix & Contribution Grid
-
-<div align="center">
-  <!-- 3D Night View Contribution Matrix -->
-  <a href="https://github.com/Ashish-Rautela">
-    <img src="profile-3d-contrib/profile-night-view.svg" alt="Ashish's 3D Contribution Matrix" width="100%" />
-  </a>
-
-  <br/><br/>
-
   <!-- Crimson Contribution Snake Animation -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ashish-Rautela/Ashish-Rautela/output/github-contribution-grid-snake-dark.svg">
@@ -141,16 +131,6 @@ ashish@workstation:~$ neofetch --profile
 | 🎟️ **EventFlow** | High-throughput event-driven backend processing 800–1,000 events/min. Uses Redis atomic offsets, dead-letter queue (DLQ) retry pipelines, and lag monitoring across 3 parallel consumers. | `Node.js` `MongoDB` `Redis` `Event-Driven` | [Repo](https://github.com/Ashish-Rautela/EventFlow) |
 | 🗳️ **Decentralized Voting** | Blockchain voting architecture with smart contracts for tamper-resistant vote recording. Features role-based access control, on-chain validation, and 12–15 tx/s throughput on Hardhat. | `Solidity` `Smart Contracts` `Node.js` `React.js` `Hardhat` | [Repo](https://github.com/Ashish-Rautela/Decentralized_Online_Voting_System) |
 | 🤖 **AI Template Engine** | WhatsApp template generator powered by Gemini 2.5 Flash integrated with Meta WhatsApp API and AWS EventBridge bulk scheduler. | `Gemini AI` `AWS EventBridge` `Node.js` `Lambda` | [View Profile](https://github.com/Ashish-Rautela) |
-
----
-
-### 📈 Live Activity Wave
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashish-Rautela&bg_color=050505&color=ff1e27&line=ff1e27&point=ffffff&area=true&hide_border=false&border_color=ff1e27" alt="Ashish's Activity Graph" width="100%" />
-</div>
-
----
 
 ### ⚡ Philosophy
 
