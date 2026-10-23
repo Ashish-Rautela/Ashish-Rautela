@@ -75,7 +75,7 @@ ashish@workstation:~$ neofetch --profile
       <ul>
         <li>🏆 <b>Runner-up</b> — <i>IIT Guwahati Hackathon</i></li>
         <li>🏅 <b>National Round Qualifier</b> — <i>World Cup Hackathon League (WCHL)</i></li>
-        <li>🧠 <b>500+ DSA Problems Solved</b> on <i>LeetCode</i> across Graphs, Dynamic Programming, Trees, and Advanced Structures.</li>
+        <li>🧠 <b>600+ DSA Problems Solved</b> on <i>LeetCode</i> across Graphs, Dynamic Programming, Trees, and Advanced Structures.</li>
         <li>🌐 <b>Open-Source Contributor</b> to <i>Sugar Labs (Music Blocks)</i> with production PRs merged.</li>
       </ul>
     </td>
