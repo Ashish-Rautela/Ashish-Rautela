@@ -15,7 +15,7 @@
   <!-- Status & Highlight Badges -->
   <p align="center">
     <img src="https://img.shields.io/badge/Education-Graphic%20Era%20Hill%20Univ%20(8.53%20SGPA)-FF1E27?style=for-the-badge&logoColor=white&labelColor=000000" alt="Education" />
-    <img src="https://img.shields.io/badge/LeetCode-500%2B%20Solved-000000?style=for-the-badge&logo=leetcode&logoColor=FF1E27&labelColor=000000" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-600%2B%20Solved-000000?style=for-the-badge&logo=leetcode&logoColor=FF1E27&labelColor=000000" alt="LeetCode" />
     <img src="https://img.shields.io/badge/Hackathon-IIT%20Guwahati%20Runner--up-FF1E27?style=for-the-badge&logoColor=white&labelColor=000000" alt="Hackathon" />
     <img src="https://img.shields.io/badge/Status-Open_to_Collaborate-000000?style=for-the-badge&logoColor=white&labelColor=000000" alt="Status" />
   </p>
